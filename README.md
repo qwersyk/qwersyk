@@ -1,2 +1,2 @@
-![Status](http://githubqwersyk.pythonanywhere.com/static/status.svg)
+<img src="http://githubqwersyk.pythonanywhere.com/static/status.svg" width="29">
 ![Status](./social.svg)
