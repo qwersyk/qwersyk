@@ -1,1 +1,1 @@
-![Status](githubqwersyk.pythonanywhere.com/media/status.svg)
+![Status](http://githubqwersyk.pythonanywhere.com/media/status.svg?raw=true)
